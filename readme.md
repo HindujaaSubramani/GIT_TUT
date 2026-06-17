@@ -1,3 +1,4 @@
-#this is the github notes
+#this is the first line
 
-## this is the sub branch line
+## this is from the new branch 
+## this has to be merged with conflicts
