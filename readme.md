@@ -1,4 +1,2 @@
-#this is the first line
-
-## this is from the new branch 
-## this has to be merged with conflicts
+## this is the main file
+## it is present in the main branch
